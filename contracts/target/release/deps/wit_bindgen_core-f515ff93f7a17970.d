@@ -1,0 +1,10 @@
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/release/deps/libwit_bindgen_core-f515ff93f7a17970.rmeta: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/release/deps/libwit_bindgen_core-f515ff93f7a17970.rlib: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/release/deps/wit_bindgen_core-f515ff93f7a17970.d: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs:

@@ -1,0 +1,11 @@
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/release/deps/libsyn_mid-ed78277ec403126f.rmeta: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/macros.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/func.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/pat.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/path.rs
+
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/release/deps/libsyn_mid-ed78277ec403126f.rlib: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/macros.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/func.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/pat.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/path.rs
+
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/release/deps/syn_mid-ed78277ec403126f.d: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/macros.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/func.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/pat.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/path.rs
+
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/lib.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/macros.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/func.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/pat.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-mid-0.5.4/src/path.rs:

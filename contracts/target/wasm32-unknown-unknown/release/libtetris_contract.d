@@ -1,0 +1,1 @@
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/wasm32-unknown-unknown/release/libtetris_contract.rlib: /mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/tetris_common/src/lib.rs /mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/tetris_contract/src/lib.rs

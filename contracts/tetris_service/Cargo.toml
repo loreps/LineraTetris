@@ -1,0 +1,16 @@
+[package]
+name = "tetris_service"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+linera-sdk = { workspace = true }
+serde = { workspace = true }
+async-trait = { workspace = true }
+tetris_common = { workspace = true }
+
+[target.'cfg(target_arch = "wasm32")'.dependencies]
+wasm-bindgen = { workspace = true } 

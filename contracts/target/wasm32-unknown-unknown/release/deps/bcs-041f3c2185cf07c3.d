@@ -1,0 +1,11 @@
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/wasm32-unknown-unknown/release/deps/libbcs-041f3c2185cf07c3.rmeta: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs
+
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/wasm32-unknown-unknown/release/deps/libbcs-041f3c2185cf07c3.rlib: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs
+
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/wasm32-unknown-unknown/release/deps/bcs-041f3c2185cf07c3.d: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs
+
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs:

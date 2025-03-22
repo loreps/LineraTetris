@@ -1,0 +1,26 @@
+[workspace]
+resolver = "2"
+members = [
+    "tetris_contract",
+    "tetris_service",
+    "tetris_common",
+]
+
+[workspace.dependencies]
+linera-sdk = "0.11.0"
+serde = { version = "1.0", features = ["derive"] }
+rand = { version = "0.8.5", features = ["getrandom"] }
+getrandom = { version = "0.2", features = ["js"] }
+async-trait = "0.1"
+wasm-bindgen = "0.2"
+tetris_common = { path = "tetris_common" }
+
+[workspace.profile.release]
+opt-level = 'z'
+lto = true
+codegen-units = 1
+panic = 'abort'
+strip = true
+
+[profile.release.build-override]
+opt-level = 'z' 

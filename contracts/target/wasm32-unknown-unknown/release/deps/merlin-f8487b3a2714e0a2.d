@@ -1,0 +1,10 @@
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/wasm32-unknown-unknown/release/deps/libmerlin-f8487b3a2714e0a2.rmeta: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/constants.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/strobe.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/transcript.rs
+
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/wasm32-unknown-unknown/release/deps/libmerlin-f8487b3a2714e0a2.rlib: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/constants.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/strobe.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/transcript.rs
+
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/wasm32-unknown-unknown/release/deps/merlin-f8487b3a2714e0a2.d: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/constants.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/strobe.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/transcript.rs
+
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/lib.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/constants.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/strobe.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/merlin-3.0.0/src/transcript.rs:

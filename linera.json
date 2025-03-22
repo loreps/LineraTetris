@@ -1,0 +1,14 @@
+{
+  "contracts": {
+    "tetris": {
+      "source": "contracts",
+      "wasm": "contracts/target/wasm32-unknown-unknown/release/tetris_contract.wasm"
+    }
+  },
+  "services": {
+    "tetris": {
+      "source": "contracts",
+      "wasm": "contracts/target/wasm32-unknown-unknown/release/tetris_service.wasm"
+    }
+  }
+} 

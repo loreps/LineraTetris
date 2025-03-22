@@ -1,0 +1,10 @@
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/wasm32-unknown-unknown/release/deps/libed25519-d93cdd1f13973659.rmeta: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/hex.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/serde.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/../README.md
+
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/wasm32-unknown-unknown/release/deps/libed25519-d93cdd1f13973659.rlib: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/hex.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/serde.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/../README.md
+
+/mnt/c/Users/lokow/Downloads/project-bolt-sb1-bp8abmve/LineraTetris/contracts/target/wasm32-unknown-unknown/release/deps/ed25519-d93cdd1f13973659.d: /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/lib.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/hex.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/serde.rs /home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/../README.md
+
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/lib.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/hex.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/serde.rs:
+/home/trimenode/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-2.2.3/src/../README.md:
